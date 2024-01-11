@@ -11,8 +11,8 @@ header {width:100%; height:195px;}
 #upper-nav-left {float:left; padding:11px 0; font-size: 15px; font-weight: 500;}
 #upper-nav-left li {float:left; padding:0 10px;}
 #upper-nav-left a {color:white;}
-#upper-nav-right {float:right; font-size:12px; font-weight: 400;}
-#upper-nav-right li {float: left;}
+#upper-nav-right {float:right; padding:12px 0; font-size:12px; font-weight: 400;}
+#upper-nav-right li {float: left; padding:0 4px;}
 #upper-nav-right a {color:white;}
 
 #main-header {width:1200px; height:112px;}
